@@ -11,4 +11,8 @@
     <string name="save">Guardar</string>
     <string name="paint">Pintar</string>
 
+    <string name="sml">Pequeño</string>
+    <string name="med">Mediano</string>
+    <string name="lrg">Grande</string>
+
 </resources>
