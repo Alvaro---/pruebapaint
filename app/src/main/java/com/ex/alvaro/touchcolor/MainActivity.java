@@ -178,6 +178,8 @@ public class MainActivity extends ActionBarActivity implements OnClickListener{
                     brushDialog.dismiss();
                 }
             });
+
+            brushDialog.show();
         }
 
         else if(v.getId()==R.id.new_btn){
